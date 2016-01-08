@@ -1,0 +1,17 @@
+<template name="adminLayout">
+  {{> header}}
+  {{#if currentUser }}
+    <h5 class="sect-title center">You are now editing the website. All changes are propagated immediately.</h5>
+    {{> yield 'welcome'}}
+    <div class="section white">
+      <div class="container">
+        {{> yield 'about'}}
+        {{> yield 'members'}}
+        {{> yield 'videos'}}
+      </div>
+    </div>
+  {{else}}
+    {{> adminLogin}}
+  {{/if}}
+  {{> footer}}
+</template>

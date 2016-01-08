@@ -1,0 +1,8 @@
+<template name="memberList">
+  <h5 class="sect-title center">MEMBERS</h5>
+  <div id="masonry-grid" class="row">
+    {{#each members}}
+      {{> memberCard}}
+    {{/each}}
+  </div>  
+</template>

@@ -1,0 +1,14 @@
+<template name="standardLayout">
+  <header>
+    {{> header}}
+  </header>
+  {{> yield 'welcome'}}
+  <div class="section white">
+    <div class="container">
+      {{> yield 'about'}}
+      {{> yield 'members'}}
+      {{> yield 'videos'}}
+    </div>
+  </div>
+  {{> footer}}
+</template>

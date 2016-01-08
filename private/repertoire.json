@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Video Games",
+    "by": "Lana del Rey",
+    "arranger": "Evan Tenenbaum",
+    "soloist": "Jonathon McClanahan",
+    "link": "http://youtube.com/",
+    "order": 1
+  },
+  {
+    "name": "Ooh Baby Baby",
+    "by": "Smokey Robinson and the Miracles",
+    "arranger": "Cameron Rose",
+    "soloist": "Pranav Nair",
+    "link": "http://youtube.com/",
+    "order": 2
+  },
+  {
+    "name": "Guy Love",
+    "by": "The Blanks (from Scrubs)",
+    "arranger": "Cameron Rose",
+    "soloist": "Ori Ravid & Ammar Mahesri",
+    "link": "http://youtube.com/",
+    "order": 3
+  },
+  {
+    "name": "Give Me Love/Say Something",
+    "by": "Ed Sheeran/A Great Big World",
+    "arranger": "David Fong",
+    "soloist": "David Fong",
+    "link": "http://youtube.com/",
+    "order": 4
+  },
+  {
+    "name": "Fat Bottommed Girls",
+    "by": "Queen",
+    "arranger": "Megan Provost",
+    "soloist": "Ori Ravid",
+    "link": "http://youtube.com/",
+    "order": 5
+  },
+  {
+    "name": "Down by the River to Pray",
+    "by": "Traditional",
+    "arranger": "The King's Singers",
+    "link": "http://youtube.com/",
+    "order": 6
+  },
+  {
+    "name": "The Longest Time",
+    "by": "Billy Joel",
+    "arranger": "unknown",
+    "soloist": "David Fong, Rohan Ramchand, Jonathon McClanahan, Ammar Mahesri, Ori Ravid",
+    "link": "http://youtube.com/",
+    "order": 7
+  }
+]
