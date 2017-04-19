@@ -39,3 +39,139 @@
   -ms-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
+
+.flow-text {
+  font-weight: 300;
+}
+
+@media only screen and (min-width: 360px) {
+  .flow-text {
+    font-size: calc(1.2rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 390px) {
+  .flow-text {
+    font-size: calc(1.224rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 420px) {
+  .flow-text {
+    font-size: calc(1.248rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 450px) {
+  .flow-text {
+    font-size: calc(1.272rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  .flow-text {
+    font-size: calc(1.296rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 510px) {
+  .flow-text {
+    font-size: calc(1.32rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 540px) {
+  .flow-text {
+    font-size: calc(1.344rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 570px) {
+  .flow-text {
+    font-size: calc(1.368rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .flow-text {
+    font-size: calc(1.392rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 630px) {
+  .flow-text {
+    font-size: calc(1.416rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 660px) {
+  .flow-text {
+    font-size: calc(1.44rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 690px) {
+  .flow-text {
+    font-size: calc(1.464rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 720px) {
+  .flow-text {
+    font-size: calc(1.488rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 750px) {
+  .flow-text {
+    font-size: calc(1.512rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 780px) {
+  .flow-text {
+    font-size: calc(1.536rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 810px) {
+  .flow-text {
+    font-size: calc(1.56rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 840px) {
+  .flow-text {
+    font-size: calc(1.584rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 870px) {
+  .flow-text {
+    font-size: calc(1.608rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  .flow-text {
+    font-size: calc(1.632rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 930px) {
+  .flow-text {
+    font-size: calc(1.656rem * 3.5);
+  }
+}
+
+@media only screen and (min-width: 960px) {
+  .flow-text {
+    font-size: calc(1.68rem * 3);
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .flow-text {
+    font-size: calc(3.5 * 1.2rem);
+  }
+}
