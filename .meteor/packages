@@ -26,3 +26,4 @@ sjors:meteor-masonry
 mrt:jquery-imagesloaded
 accounts-ui
 accounts-password
+reywood:iron-router-ga

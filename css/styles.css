@@ -1,0 +1,41 @@
+.row+.row {
+  margin-top: 3rem;
+}
+
+.backgrounded {
+  background-image: url("../DSC_0480.jpg");
+  background-size: cover;
+}
+
+.col-auto + .col-auto {
+  margin-left: 2rem;
+}
+
+#color-box {
+  background-color: rgba(100,100,100,0.5);
+}
+
+.bordered {
+ color: black;
+ -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+ -webkit-text-stroke-width: 2px;
+ -webkit-text-stroke-color: black;
+}
+
+.prof {
+  width: 30% !important;
+}
+
+.logo {
+  margin: 10px;
+  margin-left: 20px;
+}
+
+.logo:hover {
+  -webkit-filter: brightness(70%);
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
