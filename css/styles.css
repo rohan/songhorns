@@ -49,6 +49,33 @@
   height: 315px;
 }
 
+.row.d-flex {
+    height: 100vw;
+    max-height: calc(100vh * 2);
+}
+
+@media (min-width: 600px) {
+    .pb-3 {
+        flex: initial;
+        display: block;
+        
+    }
+}
+
+@media (min-width: 600px) and (max-width: 730px) {
+    .row.d-flex {
+        max-height: 1200px;
+        height: 1200px;
+    }
+}
+
+
+@media (min-width: 731px) and (max-width: 1200px) {
+    .row.d-flex {
+        max-height: 1200px;
+    }
+}
+
 @media only screen and (min-width: 360px) {
   .flow-text {
     font-size: calc(1.2rem * 3.5);
